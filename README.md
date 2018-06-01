@@ -1,0 +1,3 @@
+# academic_secretary_system
+这是一个本科教务秘书辅助系统
+主要使用者为教务秘书
